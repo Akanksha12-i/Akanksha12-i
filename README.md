@@ -1,3 +1,4 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&size=25&pause=1000&color=F7F5E7&background=0B223BF6&center=true&multiline=true&random=false&width=435&lines=Akanksha+Sinha%F0%9F%AA%84" alt="Akanksha" /></a>
 - 👋 Hi, I’m Akanksha.
 - 👀 I’m interested in Web Development and Coding
 - 🌱 I’m currently learning Reactjs
