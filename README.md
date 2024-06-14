@@ -3,7 +3,7 @@
 - 👀 I’m interested in Web Development and Coding
 - 🌱 I’m currently learning Reactjs and Python
 - 📫 Contact...<br>
-     My email: akankshasinha299@gmail.com<br>
+     Email address: akankshasinha299@gmail.com<br>
      Linkedin Profile: https://www.linkedin.com/in/akanksha-sinha-2109a9239/
 
 <!---
