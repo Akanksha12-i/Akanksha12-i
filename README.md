@@ -3,7 +3,7 @@
 - 👀 I’m interested in Web Development and Coding
 - 🌱 I’m currently learning Reactjs and Python
 ## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://badgr.com/public/assertions/yeIK76L3TGy20H1uNQi4tQ?identity__email=akankshasinha299@gmail.com">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
  
 </div>
