@@ -17,11 +17,11 @@
 ## 📱Contact...
 <div id="badges">
   <a href="https://www.linkedin.com/in/akanksha-sinha-2109a9239/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Link"/></a>
-  <a href="akankshasinha299@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Gmail Link"/>
+  <a href="akankshasinha299@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Link"/>
   
 </div>
-- Email address: akankshasinha299@gmail.com<br>
-- Linkedin Profile: https://www.linkedin.com/in/akanksha-sinha-2109a9239/
+
+
 
 <!---
 Akanksha12-i/Akanksha12-i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
