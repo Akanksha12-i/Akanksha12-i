@@ -2,6 +2,8 @@
 - 👋 Hi, I’m Akanksha.
 - 👀 I’m interested in Web Development and Coding
 - 🌱 I’m currently learning Reactjs and Python
+##
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=Akanksha12-i)
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://badgr.com/public/assertions/yeIK76L3TGy20H1uNQi4tQ?identity__email=akankshasinha299@gmail.com">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
@@ -10,11 +12,11 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
- 
 </div>
-- 📫 Contact...<br>
-     Email address: akankshasinha299@gmail.com<br>
-     Linkedin Profile: https://www.linkedin.com/in/akanksha-sinha-2109a9239/
+ 
+## 📱Contact...
+- Email address: akankshasinha299@gmail.com<br>
+- Linkedin Profile: https://www.linkedin.com/in/akanksha-sinha-2109a9239/
 
 <!---
 Akanksha12-i/Akanksha12-i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
